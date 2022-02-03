@@ -81,4 +81,52 @@ Sýna, fela tilkynningar, Velja hvaða öpp koma upp í tilkynningatabinu niðri
 <br />
 11.1.3.4 Lab - Work with Task Manager:<br />
 <br />
+What happened?<br />
+Browserinn lokaði og sést ekki lengur í task manager.<br />
+What options are available?<br />
+End task, Run new task, Always on top, Search online.<br />
+What statuses are listed?<br />
+Stopped og Running.<br />
+What are the available actions that can be taken?<br />
+start, stop, restart, open services, search online, ofl.<br />
+What is the current utilization of the CPU?:<br />
+4%<br />
+How many streams of instructions (i.e. Threads) are currently running?<br />
+1532<br />
+How many Apps, Background processes, and Windows processes (i.e Processes) are currently running?<br />
+138<br />
+What is the total physical memory (MB)?<br />
+8000MB<br />
+What is the available physical memory (MB)?<br />
+5200MB<br />
+How much physical memory (MB) is being used by the computer?<br />
+2600MB<br />
+What is the link speed? What type of Ethernet Adapter is in use on this computer?<br />
+100Kbps Realtek PCIe GbE Family Controller.<br />
+What type of network connection (i.e Connection type) is in use?<br />
+Ethernet<br />
+What is the IPv4 address of the PC?<br />
+10.11.214.71<br />
+What effect does this have on the columns?<br />
+Raðar ferlum eftir þeim sem nota mest memory og svo þegar þú klikkar aftur gerir það andstæðuna.<br />
+What affect does this have on the Memory column?<br />
+Núna sýnir það minnisnotkun í prósentum.<br />
+How could this be useful?<br />
+Getur hjálpað með að vita hvað er að nota minnið, þegar talvan er hæg á sér til dæmis.<br />
+The listed processes are divided by categories. What categories are listed?<br />
+Þetta raðar með bakgrunnsforritum, windows forritum og öppum.<br />
+Right-click a username. What are the available options?<br />
+Expand, Disconnect og manage user accounts.<br />
+The Startup tab lists the processes that are started automatically during Windows startup. Click the Startup tab. Right-click a process and list the available options below.<br />
+Disable, open file location, Search online og properties.<br />
+What type of information can you get from this list?<br />
+CPU tími, niðurhöl. þegar hleðið er upp(Uploaded)<br />
+The Details tab displays process information such as process ID (PID), status, and memory utilization. Right-click a process and list the available options below.<br />
+End task, End process tree, Set priority, Set affinity, Analyze wait chain, UAC virtualization, Create dump file, Open file location, Search online, Properties, og Go to service(s).<br />
+Why is it important for an administrator to understand how to work within the Task Manager?<br />
+Task manager er mjög gagnlegt forrit því að þú getur slökkt á forritum sem eru frosin, restartað forritum sem eru einhvað að bila, séð notkun á íhlutum o.f.l.<br />
+
+
+
+
 
