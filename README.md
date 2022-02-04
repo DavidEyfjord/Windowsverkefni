@@ -224,4 +224,43 @@ Reikningurinn er starfsmaður sem hættir en fyrirtækið vill halda upplýsingu
 <br />
 11.2.5.8 Lab - Manage Virtual Memory
 <br />
-
+What is the current size of the virtual memory (paging file)?<br />
+1920MB<br />
+What Drive contains the paging file?<br />
+C:<br />
+What is the recommended paging file size for all drives?<br />
+1909MB<br />
+What Drive contains the paging file?<br />
+I ITE<br />
+Why would you ever change the default virtual memory page file settings in Windows?<br />
+Gætir viljað setja það í til dæmis ssd til þess að auka hraðan á windows.<br />
+<br />
+11.2.6.2 Lab - Use Device Manager
+<br />
+What information is listed in the Device Manager window? Why would you use it?<br />
+Sýnt er alla íhlutina og gott er að nota þetta til þess að til dæmis updatea driveranna.<br />
+How would you install driver software for an older device that may not be automatically recognized by the Windows operating system?<br />
+Device Manager > Action tab > Add legacy hardware.<br />
+What additional information does Driver Details provide?<br />
+Það sýnir hvar á tölvunni driverinn er installed.<br />
+What two options do you have for updating the driver?<br />
+search automatically eða browse the computer’s file folders for a driver.<br />
+What does the Roll Back Driver button do? The Roll Back Driver can be grayed out on your computer, why would it be grayed out?<br />
+Uninstallar driverinum sem þú installaðir síðast. þetta er grátt því ég hef ekkert installað neinum driver.<br />
+What are the other available options?<br />
+disable device og uninstall devices.<br />
+<br />
+11.3.1.11 Lab - Monitor and Manage System Resources
+<br />
+In Notepad, click File > Print. Record a listed printer below. Note: You do not need to install a physical printer.
+Microsoft XPS Document Writer
+What message did you receive? How would you fix this?
+you can perform printer-related tasks such as page setup or printing a document, you need to install a printer. restarta print spooler
+When DHCP Client stops, what other services will also be stopped?
+IP Helper, WinHTTP Web Proxy Auto-Discovery Service, Network List Service, og Network Location Awareness.
+Why is it important to exercise care when managing services?
+Þú getur haft áhrif á önnur forrit þegar þú stoppar eitt
+What is the full path name to the example file name?
+C:\PerfLogs\DataCollectionName\DataCollector01.csv
+What does the column farthest to the right show?
+laust minni
