@@ -252,15 +252,28 @@ disable device og uninstall devices.<br />
 <br />
 11.3.1.11 Lab - Monitor and Manage System Resources
 <br />
-In Notepad, click File > Print. Record a listed printer below. Note: You do not need to install a physical printer.
-Microsoft XPS Document Writer
-What message did you receive? How would you fix this?
-you can perform printer-related tasks such as page setup or printing a document, you need to install a printer. restarta print spooler
-When DHCP Client stops, what other services will also be stopped?
-IP Helper, WinHTTP Web Proxy Auto-Discovery Service, Network List Service, og Network Location Awareness.
-Why is it important to exercise care when managing services?
-Þú getur haft áhrif á önnur forrit þegar þú stoppar eitt
-What is the full path name to the example file name?
-C:\PerfLogs\DataCollectionName\DataCollector01.csv
-What does the column farthest to the right show?
-laust minni
+In Notepad, click File > Print. Record a listed printer below. Note: You do not need to install a physical printer.<br />
+Microsoft XPS Document Writer<br />
+What message did you receive? How would you fix this?<br />
+you can perform printer-related tasks such as page setup or printing a document, you need to install a printer. restarta print spooler<br />
+When DHCP Client stops, what other services will also be stopped?<br />
+IP Helper, WinHTTP Web Proxy Auto-Discovery Service, Network List Service, og Network Location Awareness.<br />
+Why is it important to exercise care when managing services?<br />
+Þú getur haft áhrif á önnur forrit þegar þú stoppar eitt<br />
+What is the full path name to the example file name?<br />
+C:\PerfLogs\DataCollectionName\DataCollector01.csv<br />
+What does the column farthest to the right show?<br />
+laust minni<br />
+<br />
+11.3.2.7 Lab - System Utilities
+<br />
+What was the path you use to navigate to the Event Viewer?
+Your console > Management Tools > Computer Management > System Tools > Event Viewer
+What is the background picture?
+Windows Logo
+What is the data value of the Background (hint – it has three numbers that correspond to red, green, and blue)?
+0 0 0
+What is the data value of the Background?
+0 0 0
+What is the data value of the Background? Compare the new value in the Registry to the value saved in BlueBKG.reg.
+Get ekki gert þennan lið án full windows version.
