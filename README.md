@@ -365,9 +365,23 @@ CLI breytist aldrei sama hvaða windows en GUI breytist mjög oft.<br />
 <br />
 11.4.3.2 Lab - Disk CLI Commands
 <br />
-
-
-
+What is the option to fix errors on the drive?<br />
+/F<br />
+What is the option to force the volume to dismount first if necessary?<br />
+/X<br />
+What is the option to locate bad sectors and recover readable information?<br />
+/R<br />
+What happened? Explain.<br />
+Access Denied <br />
+What is the file system of the drive?<br />
+FAT, FAT32, og NTF.<br />
+What option is used to determine the maximum number of bytes that the volume can be shrink by?<br />
+QUERYMAX<br />
+What is the maximum number of reclaimable bytes?<br />
+57741 MB<br />
+<br />
+11.4.4.2 Lab - Task and System CLI Commands
+<br />
 
 
 
