@@ -267,13 +267,111 @@ laust minni<br />
 <br />
 11.3.2.7 Lab - System Utilities
 <br />
-What was the path you use to navigate to the Event Viewer?
-Your console > Management Tools > Computer Management > System Tools > Event Viewer
-What is the background picture?
-Windows Logo
-What is the data value of the Background (hint – it has three numbers that correspond to red, green, and blue)?
-0 0 0
-What is the data value of the Background?
-0 0 0
-What is the data value of the Background? Compare the new value in the Registry to the value saved in BlueBKG.reg.
-Get ekki gert þennan lið án full windows version.
+What was the path you use to navigate to the Event Viewer?<br />
+Your console > Management Tools > Computer Management > System Tools > Event Viewer<br />
+What is the background picture?<br />
+Windows Logo<br />
+What is the data value of the Background (hint – it has three numbers that correspond to red, green, and blue)?<br />
+0 0 0<br />
+What is the data value of the Background?<br />
+0 0 0<br />
+What is the data value of the Background? Compare the new value in the Registry to the value saved in BlueBKG.reg.<br />
+Get ekki gert þennan lið án full windows version.<br />
+What is the data value of the Background?<br />
+Blátt<br />
+What is the color of the desktop?<br />
+Blátt<br />
+What is the color of the desktop?<br />
+Blátt<br />
+Why would it be beneficial to add snap-ins to the mmc that are for other computers on the network?<br />
+Gott til að hræra í vélum sem hafa ekki skjá til dæmis.<br />
+After restarting the computer, why was the desktop color changed?<br />
+Var það ekki gat ekki liðinn.<br />
+<br />
+11.3.2.8 Lab - Manage System Files
+<br />
+Processor:<br />
+Intel Core i5-4430 CPU @ 3.00GHz 3000MHz 4 Core(s) 4 Logical Processor(s)<br />
+BIOS Version/Date:<br />
+V3.0, 4/16/2013<br />
+Total Physical Memory:<br />
+8GB<br />
+DMA channels and the device using the resources.<br />
+Channel 4, Direct memory access controller<br />
+Adapter Description:<br />
+RX 580 Series<br />
+Adapter RAM:<br />
+(1,048,576) bytes<br />
+Under the Software Environment heading, where would you find the applications that automatically load when the computer boots?<br />
+Startup Programs<br />
+What are the startup options?<br />
+Normal startup, Diagnostic startup, eða Selective startup.<br />
+Can you enable and disable services at this tab?<br />
+Já<br />
+What can you do in this tab?<br />
+Opna allskonar built-in windows tabs<br />
+What does this tool report?<br />
+Upplýsingar um DirectX hluti og drivera.<br />
+What information is listed on this page?<br />
+Device, Drivers, og DirectX Features<br />
+What information is listed on this page?<br />
+Device og Drivers<br />
+What information is listed on this page?<br />
+listi af input (Mús lyklaborð o.f.l)<br />
+What information is listed on these extra tabs?<br />
+Bios, ram, allskonar upplýsingar<br />
+Why would it be beneficial to turn off a service in the system configuration?<br />
+Til dæmis ef prógram er að nota of mikið minni eða er unresponsive.<br />
+When would you use the startup tab of the system configuration tool?<br />
+Gott að opna hluti sem þú notar daglega sjálfkrafa<br />
+<br />
+11.4.1.5 Lab - Work in the Windows Command Shell
+<br />
+To see the next page, press the spacebar. What happens when you press enter?<br />
+Fer fram eina línu í einu<br />
+How would you create these folders C:\Users\ITEUser\a\b\c if your current directory is C:\Users\ITEUser?<br />
+C:\Users\ITEUser> mkdir a\b\c<br />
+What command would you use to verify the creation of the nested directories?<br />
+dir og cd <br />
+What command did you use?<br />
+C:\Users\ITEUser> cls<br />
+What is the last command that you have used? Press Esc on the keyboard to exit the dialog box.<br />
+cls<br />
+What is the last command?<br />
+cls<br />
+<br />
+11.4.2.7 Lab - File System Commands
+<br />
+What is the current directory?<br />
+C:\Users\ITEUser<br />
+Which folder are you in now?<br />
+C:\Users\ITEUser\ITEfolder3<br />
+What command or commands did you use to create the nested folders?<br />
+C:\Users\ITEUser\ITEfolder3> md ITEfolder4\ITEfolder5<br />
+After issuing the cd .. command, what is your directory now?<br />
+C:\Users\ITEUser\ITEfolder3\ITEFolder4<br />
+What would be the current directory if you issue this command at C:\Users\ITEfolder4?<br />
+C:\Users\ITEUser\ITEFolder3<br />
+What single command would you use to delete all the files with doc2 in the filename? Use the command to remove the files with doc2 in the filename.<br />
+C:\Users\ITEUser\ITEfolder1> del doc2*<br />
+What command would you use to delete all the files in the directory? Use the command to remove the files.<br />
+C:\Users\ITEUser\ITEfolder1> del *.*<br />
+What option allows you to copy all the files and directories, including the empty directories?<br />
+/E<br />
+Were you able to delete the directory? Explain.<br />
+nei því það var ekki tómt<br />
+What are the advantages of using CLI vs. GUI?<br />
+CLI breytist aldrei sama hvaða windows en GUI breytist mjög oft.<br />
+<br />
+11.4.3.2 Lab - Disk CLI Commands
+<br />
+
+
+
+
+
+
+
+
+
+
