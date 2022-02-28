@@ -409,3 +409,54 @@ shutdown /a<br />
 <br />
 
 
+
+11.5.2.4 Lab - Share Resources<br />
+What is the name of your computer? Provide your computer name and shared folder name to your partner.<br />
+David<br />
+What is the name of your partner’s computer and shared folder from your partner?<br />
+Gummi<br />
+Can you open the Brief file?<br />
+Já<br />
+Can you delete the Brief file? What happens?<br />
+Nei. Aðgangi neitað<br />
+What are the default permissions?<br />
+Allir hafa Read aðgang<br />
+What needs to be changed to allow any remote users to make changes in the ShareXX folder?<br />
+Allir hafa fulla stjórn<br />
+Can you open the Brief file?<br />
+Já<br />
+Can you delete the Brief file? What happens?<br />
+Já<br />
+What can you do to assign a drive letter to your partner’s shared folder?<br />
+<br />
+Með því að mappa með map network drive.<br />
+<br />
+11.5.6.2 Lab - Windows Remote Desktop and Assistance
+<br />
+Record the name of this computer<br />
+DESKTOP-O7S54N8<br />
+What is the current Remote Desktop Port?<br />
+3389<br />
+What CLI command would you use to get the IP address?<br />
+ipconfig<br />
+Username:<br />
+Vilborg Traustadóttir<br />
+Password:<br />
+lykilordid<br />
+What message is displayed on the remote computer and how much time is mentioned?<br />
+The user on remote computer has 30 seconds to deny the remote desktop connection or approve it. If the user on remote computer does nothing, the remote desktop is allowed after 30 seconds.<br />
+What is the default amount of time remote assistance invitations remain open?<br />
+6Klst<br />
+What are the ways to send an invitation to a trusted person with Remote Assistance?<br />
+Saved invitation file, eða email.<br />
+What type of scenarios are most appropriate for Remote Assistance in contrast with Remote Desktop?<br />
+Remote Assistance er best til þess að leita að vandamálum í tölvunni.<br />
+Remote Desktop er best til þess að finna upplýsingar á tölvu sem er ekki hliðina á manni.<br />
+How many simultaneous users can access a Windows computer at a single time?<br />
+Aðeins einn í einu.<br />
+What type of security components are implemented with Windows Remote Desktop?<br />
+authentication og encryption.<br />
+How could remote desktop be used as a beneficial technology in the workplace?<br />
+Kannski til dæmis í fyrirtæki.<br />
+
+
