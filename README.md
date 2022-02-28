@@ -382,10 +382,30 @@ What is the maximum number of reclaimable bytes?<br />
 <br />
 11.4.4.2 Lab - Task and System CLI Commands
 <br />
-
-
-
-
-
+What command would you use to display the results of tasklist one page at a time?<br />
+tasklist | more.<br />
+What is the option to list the modules that are associated with a task?<br />
+/M <br />
+What command would you use if you want to find all the tasks that use the module oleaut32.dll? List a few tasks that uses oleaut32.dll.<br />
+tasklist /M ole32* og tasklist /M oleaut32.dll. Wildcard *<br />
+What command would you use to find out all the tasks that are associated with your username?<br />
+tasklist /fi “username eq David<br />
+What command would you use to find out all the processes that have been running for more than 1 hour and 40 minutes?<br />
+tasklist /FI “cputime gt 01:40:00″<br />
+What command would you use if you wanted to terminate all process owned by a particular user?<br />
+taskkill /FI “username eq David<br />
+What option would you use if you only wanted to scan the integrity of all the protected system files?<br />
+/verifyonly<br />
+What would you add to the command so you can view the output one page at a time?<br />
+dism /online /get-drivers /all /format:table | more<br />
+Enter the command to log off your computer. Record the command below.<br />
+C:\Windows\system32> shutdown /l<br />
+Record the command below. What warning message did you see?<br />
+shutdown /s /t 30,    Windows will shut down in 2 minutes.<br />
+What command would you use to abort the shutdown?<br />
+shutdown /a<br />
+<br />
+11.4.5.3 Lab - Other Useful Commands
+<br />
 
 
